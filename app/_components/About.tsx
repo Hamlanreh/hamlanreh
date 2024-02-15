@@ -30,7 +30,7 @@ export default function About() {
                             I am a MERN fullstack web developer who is able to realise projects from the ground up. I am well versed in all the key languages and am able to design, code, debug and deploy in an organised and efficient manner. My self learning process has given me a lot of opportunities to develop my critical thinking and problem solving skills.
                         </p>            
                         <p className="text-lg mb-8">
-                            I’m able to organize, communicate and adapt to different situations. I'm an individual who is highly motivated, willing to learn and develop my soft and hard skills which would serve me and my employer in the future.
+                            I&apos;m able to organize, communicate and adapt to different situations. I'm an individual who is highly motivated, willing to learn and develop my soft and hard skills which would serve me and my employer in the future.
                         </p>
                         <div>
                             <button type="button" className="bg-blue-500 text-white px-14 py-5 font-semibold border rounded dark:border-gray-100 dark:text-gray-100">Download CV</button>
