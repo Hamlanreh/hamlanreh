@@ -1,3 +1,38 @@
+# Oluwabi Ahmed Portfolio website (Hamlanreh)
+
+### Demo url
+[View the site here!](https://hamlanreh.vercel.app/)
+
+### Code url
+[View the code here!](https://github.com/Hamlanreh/hamlanreh)
+
+The portfolio of Oluwabi Ahmed (Hamlanreh) to showcase some of my projects for clients or potential employers
+
+## Features
+
+- Authentication system
+- Shopping cart system
+- Payment system implementation (Stripe)
+
+## Tech Stacks
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Version Control**
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Screenshots
+
+
+
+## Contribution
+It open source and any contribution or solution to provided issues to it is appreciated, thank you.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
