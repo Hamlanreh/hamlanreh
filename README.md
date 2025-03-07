@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/hamlanreh" target="blank"><img src="https://img.shields.io/twitter/follow/hamlanreh?logo=twitter&style=for-the-badge" alt="hamlanreh" /></a> </p>
 
-- 🌱 I’m currently learning **Asp.Net, Angular, Next.Js, SQL, Node.js**
+- 🌱 I’m currently learning **Asp.Net, Next.Js, SQL, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamlanreh](https://github.com/hamlanreh)
 
-- 💬 Ask me about **C#, JavaScript, TypeScript**
+- 💬 Ask me about **C#, JavaScript, React, Python, TypeScript**
 
 - 📫 How to reach me **oluwabihammed49@gmail.com**
 
